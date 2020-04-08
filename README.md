@@ -1,14 +1,13 @@
 # GROUP-1-PROJECT
 Health Professionals Distribution
-## Moringa_Data_Science_Prep_W4_Independent_Project_2019_07_Lydia_Kerubo_Python_Notebook
 
-## {A PYTHON PROJECT TO UNDERSTAND ELECTRIC CAR USAGE.}
+## {A PYTHON PROJECT TO ANALYSE THE DISTRIBUTION OF HEALTH PROFESSIONALS IN DIFFERENT COUNTIES.}
 
-### (IP WEEK 4 DATA SCIENCE PREP),(April,2019)
-##### By(Lydia Kerubo)
+### (PROJECT WEEK 5),(April,2019)
+##### By(Mercy Kubania, Faithelizabeth Mburuga, Carole Akoth and Lydia Kerubo)
 ### Description
-* Investigating the eletric(bluecars) car usage in Paris during the month of April 2018.
-* Test Hypothesis: whether the results change if you consider Utilib and Utilib 1.4 instead of Blue cars
+* How to equalize Distribution of Health Professionals per County.
+* Test Hypothesis: Whether there are counties with less or more health professionals.
 ### Experimental Design
 * Exploratory Data Analysis.
 * Data cleaning
@@ -25,7 +24,7 @@ Health Professionals Distribution
 ### Support and contact details
 {Any issues, questions,ideas,concerns,or contributions to the code are highly encouraged.
 
-Contacts: mokayalydiak@gmail.com}
+Contacts: mercykubz@gmail.com,fmburuga@gmail.com,carole.akoth@gmail.com, mokayalydiak@gmail.com}
 ## License
 {MIT License.See below for more details on licencing.}
 
